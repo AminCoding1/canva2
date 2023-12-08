@@ -1,0 +1,17 @@
+html, body{
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    background: black;
+  }
+  canvas {
+    background: black;
+    opacity: 1;
+    width: 600;
+    height: 600;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+ 
